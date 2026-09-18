@@ -22,7 +22,7 @@
 | :---: | :--- | :---: | :--- | :---: |
 | **수 (Warm-up)** | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | Lv.1 | `HashSet`을 이용한 중복 제거 및 단순 분기 | [x] |
 | **목 (Warm-up)** | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Lv.1 | 기본 배열/리스트 순회 및 직전 원소 비교 (스택 원리) | [x] |
-| **금** | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv.2 | 스택(Stack)의 가장 정형화된 짝 맞추기 패턴 | [ ] |
+| **금** | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv.2 | 스택(Stack)의 가장 정형화된 짝 맞추기 패턴 | [x] |
 | **토** | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | Lv.2 | 문자열 회전 시뮬레이션 + 다중 괄호 스택 검증 | [ ] |
 | **일** | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv.2 | 스택에 인덱스를 저장하여 가격 하락 시점 추적 | [ ] |
 | **월 (Challenge)** | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | Lv.2 | $O(N)$ 단조 스택(Monotonic Stack) 최적화 | [ ] |
