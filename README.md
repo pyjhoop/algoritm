@@ -64,7 +64,7 @@ flowchart LR
 
 | 순서 | 상태 | 문제명 | 난이도 | 핵심 유형 | 💡 어떻게 풀면 좋을까? (풀이 전략 & 팁) |
 | :---: | :---: | :--- | :---: | :--- | :--- |
-| **01** | [ ] | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Lv.1 | 큐 / 투 포인터 | 카드 뭉치 두 개를 각각 Queue(또는 인덱스 포인터)로 두고, 목표 단어가 1번 또는 2번의 맨 앞과 일치하는지 순서대로 확인합니다. |
+| **01** | [x] | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | Lv.1 | 큐 / 투 포인터 | 카드 뭉치 두 개를 각각 Queue(또는 인덱스 포인터)로 두고, 목표 단어가 1번 또는 2번의 맨 앞과 일치하는지 순서대로 확인합니다. |
 | **02** | [ ] | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Lv.2 | 큐 / 배포 일정 계산 | 각 작업 완료까지 걸리는 일수 `ceil((100 - progress) / speed)`를 계산한 후, 앞 작업 완료일보다 일찍 끝나는 뒤 작업들을 함께 묶어 배포합니다. |
 | **03** | [ ] | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Lv.2 | 조건부 큐 회전 | `(인덱스, 우선순위)` 객체를 큐에 넣고, 현재 큐에서 우선순위가 더 높은 프로세스가 있다면 꺼내서 맨 뒤로 다시 넣는 과정을 시뮬레이션합니다. |
 | **04** | [ ] | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv.2 | 최소 힙 (`PriorityQueue`) | 가장 작은 두 음식을 꺼내 `가장 작은 값 + (두 번째 * 2)`로 섞어 다시 힙에 넣습니다. 맨 앞 원소가 $K$ 이상이 될 때까지 반복합니다. |
